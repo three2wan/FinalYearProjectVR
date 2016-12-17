@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 8bed5801597a32641bbdbd92d4f256c5
+labels:
+- Door
+- Curtain
+- Fabric
+- Canvas
+- Rustic
+- Grunge
+- Entry
+- Doorway
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CenterCurtain
+    100002: CenterCurtain_1
+    100004: Collada_visual_scene_group
+    100006: Collada_visual_scene_group 1
+    100008: //RootNode
+    100010: DoorFrame
+    100012: DoorFrame_1
+    100014: doorTrim
+    100016: doorTrim_1
+    100018: group
+    100020: group_1
+    100022: LeftCurtain
+    100024: LeftCurtain_1
+    100026: matrixTransform
+    100028: matrixTransform_1
+    100030: matrixTransform_2
+    100032: matrixTransform_3
+    100034: matrixTransform_4
+    100036: RightCurtain
+    100038: RightCurtain_1
+    100040: RootNode
+    100042: sceneRoot
+    100044: sceneRoot 1
+    400000: CenterCurtain
+    400002: CenterCurtain_1
+    400004: Collada_visual_scene_group
+    400006: Collada_visual_scene_group 1
+    400008: //RootNode
+    400010: DoorFrame
+    400012: DoorFrame_1
+    400014: doorTrim
+    400016: doorTrim_1
+    400018: group
+    400020: group_1
+    400022: LeftCurtain
+    400024: LeftCurtain_1
+    400026: matrixTransform
+    400028: matrixTransform_1
+    400030: matrixTransform_2
+    400032: matrixTransform_3
+    400034: matrixTransform_4
+    400036: RightCurtain
+    400038: RightCurtain_1
+    400040: RootNode
+    400042: sceneRoot
+    400044: sceneRoot 1
+    2300000: CenterCurtain_1
+    2300002: DoorFrame_1
+    2300004: doorTrim_1
+    2300006: LeftCurtain_1
+    2300008: RightCurtain_1
+    3300000: CenterCurtain_1
+    3300002: DoorFrame_1
+    3300004: doorTrim_1
+    3300006: LeftCurtain_1
+    3300008: RightCurtain_1
+    4300000: DoorFrame_1
+    4300002: CenterCurtain_1
+    4300004: doorTrim_1
+    4300006: LeftCurtain_1
+    4300008: RightCurtain_1
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

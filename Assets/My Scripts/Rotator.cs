@@ -1,0 +1,1 @@
+﻿using UnityEngine;using System.Collections;namespace DeadEnd{    public class Rotator : MonoBehaviour    {        void Update()        {            transform.Rotate(0, 10 * Time.deltaTime, 0);        }    }}
